@@ -1,5 +1,5 @@
-# career-ladded
-Career Ladder Blueprint for software teams
+# Career ladder
+Simple Career Ladder Blueprint for software teams to help build one. 
 # Engineer
 ## Level 1
 - Entry Level
