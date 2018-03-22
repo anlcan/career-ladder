@@ -1,13 +1,13 @@
 # career-ladded
 Career Ladder Blueprint for software teams
 # Engineer
-##Level 1
+## Level 1
 - Entry Level
 - Should proceed to L2 quickly
 - Fundamental CS 
 - Finish well defined tasks
 - Code quality
-##Level2 
+## Level2 
 - Receiving feedback
 - Ask for clarification
 - Prioritizing tasks
